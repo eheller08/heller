@@ -1,0 +1,8 @@
+reboot   system boot  5.8.0-41-generic Mon May  3 04:51   still running
+reboot   system boot  5.8.0-41-generic Sat Feb  6 02:51 - 02:54  (00:02)
+reboot   system boot  5.8.0-41-generic Sat Feb  6 02:50 - 02:51  (00:01)
+reboot   system boot  5.8.0-41-generic Sat Feb  6 02:46 - 02:50  (00:03)
+reboot   system boot  5.8.0-41-generic Sat Feb  6 02:38 - 02:46  (00:08)
+reboot   system boot  5.8.0-41-generic Sat Feb  6 02:04 - 02:05  (00:01)
+
+wtmp begins Sat Feb  6 02:04:13 2021
